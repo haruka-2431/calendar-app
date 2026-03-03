@@ -12,4 +12,4 @@ backend/*.log
 # --- Common / OS ---
 .DS_Store
 Thumbs.db
-.vscode/
+.vscode/package-lock.json
