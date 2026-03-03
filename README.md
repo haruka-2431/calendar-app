@@ -1,4 +1,4 @@
-# 📅 カレンダー管理システム (Full-stack Calendar App)
+# カレンダー管理システム
 
 本プロジェクトは、**ZeroPlus Webアプリケーションコース**の課題制作をベースに、実用性を高めるための**「カテゴリ別色分け機能」を独自に設計・実装**した作品です。
 
@@ -41,12 +41,11 @@
 .
 ├── backend/
 │   └── app.js          # MySQL接続・CRUD処理の実装
-├── frontend/
-│   └── src/
-│       ├── components/ # UIコンポーネント (Header, Body, Modal)
-│       ├── App.tsx     # 全体の状態管理・API通信ロジック
-│       └── main.tsx    # エントリーポイント
-└── package-lock.json
+└── frontend/
+    └── src/
+        ├── components/ # UIコンポーネント (Header, Body, Modal)
+        ├── App.tsx     # 全体の状態管理・API通信ロジック
+        └── main.tsx    # エントリーポイント
 ```
 
 ## 🚀 技術的な工夫と学び
