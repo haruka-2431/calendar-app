@@ -1,0 +1,15 @@
+# --- Frontend (React/Vite) ---
+frontend/node_modules/
+frontend/dist/
+frontend/.env*
+frontend/*.local
+
+# --- Backend (Node.js) ---
+backend/node_modules/
+backend/.env
+backend/*.log
+
+# --- Common / OS ---
+.DS_Store
+Thumbs.db
+.vscode/
