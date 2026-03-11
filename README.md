@@ -26,7 +26,7 @@
 ## 🛠️ 技術スタック
 
 ### Frontend
-- **React 18** / **TypeScript**
+- **React** / **TypeScript**
 - **TailwindCSS** / **daisyUI**
 - **date-fns**
 - **Vite**
